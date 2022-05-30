@@ -9,7 +9,7 @@ Desafio numero 2 proporcionado pelo Iuricode com o intuito de proporcionar a pra
 Analisar o prototipo via figma e através dele realizar o desenvolvimento do layout exibido na imagem acima com o intuito de praticar de seus conhecimento em desenvolvimento front-end
 
 # Tecnologias utilizadas
-- Vscode (editor de texto)
+- Vscode (editor de codigo)
 - HTML
 - CSS
 - JS
